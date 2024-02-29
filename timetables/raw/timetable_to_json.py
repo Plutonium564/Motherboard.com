@@ -42,6 +42,13 @@ COURSE_TITLES = {
     "BMEE215": "Engineering Optimization", 
     "BMEE302": "Metal Casting and Welding", 
     "BSSC101": "Essence of Traditional Knowledge", 
+    "BECE206": "Analog Circuits Theory",
+    "BECE207": "Random processes",
+    "BECE301": "Digital signal processing theory",
+    "BEEE208":"Analog Electronics",
+    "BEEE211":"VLSI Design",
+    "BEEE215":"DC Machines and Transformers",
+    "BEEE301":"Power Electronics"
 
 }
 
